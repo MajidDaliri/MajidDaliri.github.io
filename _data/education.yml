@@ -1,9 +1,9 @@
 # Education Template
 - layout: left
-  name: Institution name
+  name: University of Tehran
   dates: (2017 - 2021)
   qualification: Undergraduate student of B.Sc. in Computer Engineering
-  quote: >
-    2017-2021
+  # quote: >
+  #   2017-2021
   description: | # this will include new lines to allow paragraphs
     Current GPA: 18.67/20 (3.97/4)
