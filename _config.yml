@@ -3,21 +3,21 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Majid Daliri
+title: Senior Bachelor Student of University of Tehran
+email: majiddl.2099@gmail.com
+website: https://majiddaliri.github.io/
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: daliri__majid
+github_username:  MajidDaliri
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+instagram_username: daliri__majid
+linkedin_username: daliri__majid
 # pinterest_username: jekyll
-youtube_username: globalmtb
+youtube_username: -
 # googleplus_username: +jekyll
 
 # About Section
