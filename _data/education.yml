@@ -2,9 +2,7 @@
 - layout: left
   name: Institution name
   dates: (2017 - 2021)
-  qualification: 
-  
-  Undergraduate student of B.Sc. in Computer Engineering
+  qualification: Undergraduate student of B.Sc. in Computer Engineering
   quote: >
     2017-2021
   description: | # this will include new lines to allow paragraphs
